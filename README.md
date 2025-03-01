@@ -1,4 +1,4 @@
-## Projeto de Classificação Musical com Machine Learning
+# Projeto de Classificação Musical com Machine Learning
 
 Este repositório contém códigos em Python que desenvolvi para um projeto de classificação musical utilizando Machine Learning. O projeto focou na aplicação de técnicas de balanceamento de dados para melhorar as métricas na classificação de gêneros musicais.
 
